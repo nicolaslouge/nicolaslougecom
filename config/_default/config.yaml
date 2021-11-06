@@ -65,8 +65,4 @@ related:
     - name: tags
       weight: 100
     - name: categories
-      weight: 70
-backend:
-  name: github
-  repo: nicolaslouge/nicolaslougecom
-  branch: master
+      weight: 70p
