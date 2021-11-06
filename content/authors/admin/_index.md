@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nicolas Louge
+title: Nicolas Louge, PMP
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +11,7 @@ role: Project Manager
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Wunderman Thompson
-  url: wundermanthompson.com/
+  url: https://www.wundermanthompson.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,12 +25,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Project Management Professional (PMP)
-    institution: Project Management Institute
-    year: 2012
   - course: MEng in IT Project Management
     institution: ESAIP
     year: 2013
+
+# Certification to show in About widget
+certification:
+  certificates:
+  - certificate: Project Management Professional (PMP)
+    institution: Project Management Institute
+    validity: December 2021
+    link: https://www.credly.com/badges/4768fdc4-a22e-43b3-bf48-973eeb1bebc4/linked_in_profile
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
