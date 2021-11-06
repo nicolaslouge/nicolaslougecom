@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nicolas Louge
 
 # Is this the primary user of the site?
 superuser: true
