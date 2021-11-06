@@ -6,7 +6,7 @@ title: Nicolas Louge
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Project Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
