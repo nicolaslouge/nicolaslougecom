@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nicolas Louge, PMP
+title: Nicolas Louge
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,7 +27,6 @@ education:
   courses:
   - course: MEng in IT Project Management
     institution: ESAIP
-    year: 2013
 
 # Certification to show in About widget
 certification:
