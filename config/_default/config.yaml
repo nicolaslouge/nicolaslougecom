@@ -69,3 +69,4 @@ related:
 backend:
   name: github
   repo: nicolaslouge/nicolaslougecom
+  branch: master
