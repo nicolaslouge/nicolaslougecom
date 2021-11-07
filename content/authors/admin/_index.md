@@ -24,6 +24,7 @@ interests:
 - Product Management
 - Artificial Intelligence
 - Machine Learning
+- Cloug Gaming
 
 # Education to show in About widget
 education:
