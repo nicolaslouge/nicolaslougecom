@@ -24,7 +24,6 @@ interests:
 - Product Management
 - Artificial Intelligence
 - Machine Learning
-- Cloud Gaming
 
 # Education to show in About widget
 education:
