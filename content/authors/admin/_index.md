@@ -71,4 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Nicolas Louge is a project manager working on the Microsoft Canada account at Wunderman Thompson. He leads all the digital projects that are used to support and amplify local campaigns and events across Canada.
+Nicolas Louge is a project manager working at Microsoft Canada as a vendor through Wunderman Thompson. He leads all the digital projects that are used to support and amplify local campaigns and events across Canada.
+
+Past projects include working on the 1:1 replica of the Mars Curiosity Rover (the one that landed on Mars on March 2012), autonomous driving at Renault/Nissan, deployment of a project management software at Zodiac Aerospace (now Safran), and launching a popular electronic music blog called Stop The Noise.
