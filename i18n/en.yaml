@@ -78,6 +78,7 @@
 - id: education
   translation: Education
 
+  # Certification section inspired by rohitsalecha.com
 - id: certification
   translation: Certification
 
