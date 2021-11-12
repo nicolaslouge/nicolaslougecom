@@ -2,7 +2,7 @@
 
 Personal website powered by [Hugo](https://github.com/gohugoio/hugo), [Netlify](https://www.netlify.com/), and the Academic Resumé Template from [Wowchemy](https://wowchemy.com).
 
-# About Wowchemy
+### About Wowchemy
 
 [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
