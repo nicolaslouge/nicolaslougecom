@@ -15,27 +15,29 @@ font_size: M
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Nicolas Louge is a project manager working at Microsoft Canada as a vendor through Wunderman Thompson. He leads all the digital projects that are used to support and amplify local campaigns and events across Canada.'
+twitter: 'nicolaslouge'
+# Sharing photo by Nadine Shaabana on Unsplash
+  
 
 # Contact (edit or remove options as required)
 
 email: test@example.org
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 
+  city: 
+  region: 
+  postcode: ''
+  country: 
+  country_code: 
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: ''
+  longitude: ''
+directions: 
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - ''
+  - ''
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
@@ -50,10 +52,6 @@ contact_links:
     icon_pack: fab
     name: Chat on Keybase
     link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
