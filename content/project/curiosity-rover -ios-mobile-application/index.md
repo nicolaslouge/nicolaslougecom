@@ -43,6 +43,6 @@ We developed the application for the iPhone OS 3.0 platform in Objective-C and w
 The jury composed of our computer science teachers and CNES stakeholders was impressed by our work and awarded us the highest grade of the 2010 promotion.
 
 - Project size: 2 students
-- Project length: 8 months
+- Project length: 10 months
 - iPhone OS 3 / Xcode 3.0 / Objective-C / UML 2.0
 - Final grade: 18.5/20
