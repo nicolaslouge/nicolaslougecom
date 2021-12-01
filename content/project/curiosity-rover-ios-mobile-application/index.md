@@ -3,7 +3,7 @@ title: Curiosity Rover - iPhone OS mobile application (2009)
 summary: Development of an iPhone OS application to control the 1:1-size replica of the Curiosity Rover
 tags:
 - Tech
-date: "2021-11-29T00:00:00Z"
+date: "2021-11-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
