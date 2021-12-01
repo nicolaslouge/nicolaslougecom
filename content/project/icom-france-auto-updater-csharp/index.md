@@ -1,5 +1,5 @@
 ---
-title: ICOM France – Auto Updater C# (2012)
+title: Auto Updater C# (2012)
 summary: Development of an auto updater desktop application in C#
 tags:
 - Tech

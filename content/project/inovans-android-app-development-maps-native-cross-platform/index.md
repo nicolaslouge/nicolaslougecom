@@ -1,5 +1,5 @@
 ---
-title: Inovans - Android App Development & Maps - Native vs Cross-platform (2013)
+title: Android App Development & Maps - Native vs Cross-platform (2013)
 summary: Development of two Android apps (native & cross-platform) to benchmark mobile maps
 tags:
 - Tech
