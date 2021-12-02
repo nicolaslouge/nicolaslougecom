@@ -3,7 +3,7 @@ title: Android App Development & Maps - Native vs Cross-platform (2013)
 summary: Development of two Android apps (native & cross-platform) to benchmark mobile maps
 tags:
 - Tech
-date: "2021-11-30T00:00:00Z"
+date: "2021-11-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,7 +28,7 @@ slides:
 
 **Company:** Inovans (now We+)
 
-**Year:** 2013
+**Years:** 2012 - 2013
 
 For my master’s project, our school tasked us to find a company and do a project for them. A classmate and I approached a consulting firm in operational optimization called Inovans (later bought by We+) to help them have a better understanding of Android mobile applications that used a maps component.
 

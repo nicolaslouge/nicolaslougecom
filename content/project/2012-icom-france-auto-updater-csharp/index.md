@@ -3,7 +3,7 @@ title: Auto Updater C# (2012)
 summary: Development of an auto updater desktop application in C#
 tags:
 - Tech
-date: "2021-11-29T00:00:00Z"
+date: "2021-11-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
