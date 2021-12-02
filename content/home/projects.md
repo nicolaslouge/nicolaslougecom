@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Tech
     tag: Tech
+  - name: Project Management
+    tag: Project Management
   - name: Personal
     tag: Perso
 
