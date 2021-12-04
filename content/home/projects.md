@@ -31,6 +31,8 @@ content:
     tag: Tech
   - name: Project Management
     tag: Project Management
+  - name: Leadership
+    tag: Leadership
   - name: Personal
     tag: Perso
 
