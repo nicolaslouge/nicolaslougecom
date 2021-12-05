@@ -1,6 +1,6 @@
 ---
 title: Microsoft Canada Events (2021)
-summary: 
+summary: Managed the development and launch of the new Microsoft Canada Events website
 tags:
 - Tech
 - Project Management
