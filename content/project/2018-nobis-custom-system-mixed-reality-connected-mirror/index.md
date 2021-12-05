@@ -11,7 +11,7 @@ date: "2021-11-28T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Screenshot by Planisware
+  caption: Photo by Hubnest
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ slides:
 
 **Company:** Hubnest
 
-**Year:** 2018 - 2019
+**Years:** 2018 - 2019
 
 **Location:** Toronto, Canada
 
