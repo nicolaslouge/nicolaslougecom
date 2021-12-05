@@ -49,3 +49,5 @@ The implementation was such a success on both projects that Renault's management
 - Excel (thousands of files) / VBA / PowerPoint / Planisware / Business Intelligence
 
 ![Renault Clio (BJA) project team](clio-project-team.jpg "Renault Clio (BJA) project team")
+
+![Renault Clio (BJA) project team](clio-project-team-2.jpg "Renault Clio (BJA) project team")
