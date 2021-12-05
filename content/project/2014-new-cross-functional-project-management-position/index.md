@@ -3,6 +3,7 @@ title: New cross-functional PM position (2014)
 summary: Creation of a new project management position on Renault's biggest vehicle projects.
 tags:
 - Project Management
+- Leardership
 date: "2021-11-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

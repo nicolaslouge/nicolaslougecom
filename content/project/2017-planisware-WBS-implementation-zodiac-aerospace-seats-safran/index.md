@@ -1,5 +1,5 @@
 ---
-title: WBS creation & Planisware deployment
+title: WBS creation & Planisware deployment (2017)
 summary: Creation of a robust and modular project schedule template and support of the Planisware deployment
 tags:
 - Project Management
