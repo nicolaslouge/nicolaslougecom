@@ -30,6 +30,8 @@ slides:
 
 **Years:** 2009 - 2010
 
+**Location:** Toulouse, France
+
 In 2007, the CNES (Centre national d'études spatiales) and IRAP (Institut de Recherche en Astrophysique et Planétologie), involved in the Mars Science Laboratory (MSL) mission, decided to ask industrial Brevet de technicien supérieur (BTS) students to [build a mockup of the Curiosity rover](https://msl-curiosity.cnes.fr/en/MSL/A_proj_etud.htm) (scale 1:1) to highlight space activities.
 
 Different schools were in charge of building different parts and the lycée Victor Duruy was in charge of the final assembly of the Rover. The students of the Institut Limayrac built a mobile application (the target device was an [HP Palm iPAQ 114 that ran Windows Mobile 6.0 Classic](https://msl-curiosity.cnes.fr/sites/default/files/migration/smsc/msl-curiosity/icons/maquette_controle2.png)) to control the Rover and to retrieve the feed of the cameras via WiFi. The mockup was delivered in June 2009.

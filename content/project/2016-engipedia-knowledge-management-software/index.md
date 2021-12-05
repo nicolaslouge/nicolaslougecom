@@ -1,6 +1,6 @@
 ---
 title: Engipedia - Knowledge management software (2016)
-summary: Deployment of thw new version of the internal wiki for the entire group
+summary: Deployment of the new version of the internal wiki for the entire group
 tags:
 - Project Management
 - Leadership
@@ -10,7 +10,7 @@ date: "2021-11-25T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Microsoft
+  caption: Screenshot by Microsoft
   focal_point: Smart
 
 links:
@@ -30,6 +30,8 @@ slides:
 **Company:** Renault Group
 
 **Year:** 2016
+
+**Location:** Paris, France
 
 When I joined the [Renault Group](https://www.renaultgroup.com/en/) as a project manager in 2014, I didn't know a lot about the automotive industry. I knew the name of the major brands and models but that was about it.
 

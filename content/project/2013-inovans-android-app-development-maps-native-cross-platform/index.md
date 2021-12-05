@@ -30,6 +30,8 @@ slides:
 
 **Years:** 2012 - 2013
 
+**Location:** Toulouse, France
+
 For my master’s project, our school tasked us to find a company and do a project for them. A classmate and I approached a consulting firm in operational optimization called Inovans (later bought by We+) to help them have a better understanding of Android mobile applications that used a maps component.
 
 The project consisted of developing two Android applications, a native one in Java with the Google Maps API and a cross-platform one with the [PhoneGap framework](https://blog.phonegap.com/update-for-customers-using-phonegap-and-phonegap-build-cc701c77502c?gi=a0b3be344bf7) (HTML, CSS, JavaScript) and the [MapQuest](https://www.mapquest.com/) API.

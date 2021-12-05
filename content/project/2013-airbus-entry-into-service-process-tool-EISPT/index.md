@@ -31,6 +31,8 @@ slides:
 
 **Year:** 2013
 
+**Location:** Toulouse, France
+
 In March 2013, I interned at Altran as a project manager working on the INIS bundle for [Airbus](https://www.airbus.com/en).
 
 The bundle consisted of multiple projects and one of them was a tool called EISPT for Entry Into Service Process Tool. EISPT was an internal tool supporting the hardware and software needs of every Airbus’s IT projects. If a project required to have a specific number of servers with specific requirements and software, they would create a request in EISPT so another team could take care of that request.

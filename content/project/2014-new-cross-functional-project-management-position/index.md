@@ -1,6 +1,6 @@
 ---
 title: New cross-functional PM position (2014)
-summary: Creation a of new project management position on Renault's biggest vehicle projects.
+summary: Creation of a new project management position on Renault's biggest vehicle projects.
 tags:
 - Project Management
 date: "2021-11-24T00:00:00Z"
@@ -28,7 +28,9 @@ slides:
 
 **Company:** Renault Group
 
-**Year:** 2014 - 2017
+**Years:** 2014 - 2017
+
+**Location:** Paris, France
 
 I joined the [Renault Group](https://www.renaultgroup.com/en/) as a project manager in 2014 via the management consulting company MI-GSO.
 
