@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Cloud Computing
+- Photography
 
 # Education to show in About widget
 education:
