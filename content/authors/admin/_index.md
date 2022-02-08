@@ -20,10 +20,10 @@ bio: ""
 interests:
 - Modern Web Development
 - Jamstack
-- Web3
 - Product Management
 - Artificial Intelligence
 - Machine Learning
+- Cloud Computing
 
 # Education to show in About widget
 education:
@@ -36,7 +36,7 @@ certification:
   certificates:
   - certificate: Project Management Professional (PMP)
     institution: Project Management Institute
-    validity: December 2021
+    validity: December 2024
     link: https://www.credly.com/badges/4768fdc4-a22e-43b3-bf48-973eeb1bebc4/linked_in_profile
 
 # Social/Academic Networking
