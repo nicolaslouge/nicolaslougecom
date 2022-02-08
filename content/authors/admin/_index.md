@@ -18,9 +18,9 @@ bio: ""
 
 # Interests to show in About widget
 interests:
+- Product Management
 - Modern Web Development
 - Jamstack
-- Product Management
 - Artificial Intelligence
 - Machine Learning
 - Cloud Computing
