@@ -39,9 +39,9 @@ During the first six months, I was in charge of monitoring a set of procurement 
 
 In 2015, the Clio (BJA) and Captur (HJB) projects started to grow as they entered the design phase. The bar was high as they were the very first vehicles of the brand to have autonomous driving features. The project management office asked to me led the creation and implementation of a new cross-functional position for the engineering system department (DEA-S) that was in charge of the CMF-B platform (modular underbody that could be adapted to new models), the radar, cameras, dashboard, screens, and more. 
 
-As the scope of the project was huge, so was the role and the impact with every department (Design, Engineering, Quality, PMO, Prototype) of the company. To understand all the dependencies with them, I had to meet and work with hundreds of people at Renault and Nissan. I lead a team of 10 consultants and we focused on integrating the project and the system parts schedules into a modified version of Planisware, creating and updating enhanced monitoring tools, project reports & dashboards, and on continuously improving existing and new KPIs and processes. 
+As the scope of the project was massive, so was the role and the impact with every department (Design, Engineering, Quality, PMO, Prototype) of the company. To understand all the dependencies with them, I had to meet and work with hundreds of people at Renault and Nissan. I lead a team of 10 project consultants and we focused on integrating the project and the system parts schedules into a modified version of Planisware, creating and updating enhanced monitoring tools, project reports & dashboards, and on continuously improving existing and new KPIs and processes. 
 
-The implementation was such a success on both projects that Renault's management decided to implement it on all vehicle projects of the brand.
+The implementation was such a success on both projects that Renault's management decided to implement it on every future vehicle projects of the brand. Our team of consultant from 30 to more than a 100.
 
 **Renault Clio (XJA) + CMF-B platform:**
 - Project size: 100+ people / 1+ billion euros
