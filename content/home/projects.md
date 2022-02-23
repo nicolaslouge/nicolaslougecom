@@ -34,7 +34,7 @@ content:
   - name: Leadership
     tag: Leadership
   - name: Personal
-    tag: Perso
+    tag: Personal
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
