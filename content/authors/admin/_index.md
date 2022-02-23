@@ -50,7 +50,7 @@ social:
   link: mailto:nicolas.louge@gmail.com
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nicolaslouge
+  link: https://www.linkedin.com/in/nicolaslouge/en
 - icon: github
   icon_pack: fab
   link: https://github.com/nicolaslouge

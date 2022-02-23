@@ -1,6 +1,6 @@
 ---
 title: Personal Website & Blog (2021)
-summary: Launched my personal static website
+summary: Launch a personal website using a static website generator
 tags:
 - Tech
 - Personal

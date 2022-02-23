@@ -1,6 +1,6 @@
 ---
 title: Stop The Noise - Electronic Music Blog (2009)
-summary: Created and launched an electronic music blog
+summary: Creation and launch of an electronic music website
 tags:
 - Tech
 - Personal
