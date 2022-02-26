@@ -35,7 +35,7 @@ slides:
 
 Managed and monitored a multimillion-dollar budget, project plans (tasks, resources, hours), and deliverables of a portfolio of 18 Commuter/Military and Research and Technology (R&T) programs.
 
-I created, updated, and maintained project plans, deliverable lists, projects & risks dashboard, and delivered monthly budget and risk presentations to the senior management.
+I created, updated, and maintained project plans, deliverable lists, project & risk dashboard, and delivered monthly budget and risk presentations to the senior management.
 
 - Portfolio size: $25 million (CAD)
 - Controlled Goods Program (CGP) clearance

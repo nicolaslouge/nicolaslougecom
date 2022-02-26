@@ -45,7 +45,7 @@ In June 2009, I bought the stopthenoise.fr domain name and I self-hosted a blog 
 
 The site grew exponentially but the amount of work did too. After school, from 6PM to midnight, Stop The Noise (or STN) was the only thing I worked on. Including weekends and holidays. 
 
-In 2011, a Googler played a video that I uploaded on Youtube (a track from Tron Legacy) as a countdown a few minutes before launching Google+. In 2014, a bit more than 6 months after I got my master's, I moved to Paris to work at Renault/Nissan as Junior Project Manager and had no longer the time to maintain the site.
+In 2011, a Googler played a video that I uploaded on YouTube (a track from Tron Legacy) as a countdown a few minutes before launching Google+. In 2014, a bit more than 6 months after I got my master's, I moved to Paris to work at Renault/Nissan as Junior Project Manager and had no longer the time to maintain the site.
 
 Today, the website is still online and it might make a come back someday.
 

@@ -38,9 +38,9 @@ Different schools were in charge of building different parts and the lycée Vict
 
 In September 2009, the CNES asked the Institut Limayrac to port the mobile application from Windows Mobile to iOS.
 
-I teamed up with another student and we managed the project from end-to-end with the client. We started working on the project scope, defining the detailed work breakdown, assessing risks, defining and getting a sign-off on the scope statement. The software architecture was modeled with UML 2.0 by using component, class, activity, and use case diagrams.
+I teamed up with another student and we managed the project from end-to-end with the client. We started working on the project scope, defining the detailed work breakdown, assessing risks, defining and getting a sign-off on the scope statement. The software architecture was modeled with UML 2.0 by using components, class, activity, and use case diagrams.
 
-We developed the application for the iPhone OS 3.0 platform in Objective-C and we presented the final project at the CNES and demoed it at the Toulouse Space Show in June 2010. Using the application, you were able to control the rover (forward/backward/turning left and right), see the feed from the camera, and execute preset scenarios (one of them was the following: moving forward for a determined period, deploying the arm, turning on the laser, retracting the arm, and going back to its initial position).
+We developed the application for the iPhone OS 3.0 platform in Objective-C and we presented the final project at the CNES and did a demo it at the Toulouse Space Show in June 2010. Using the application, you were able to control the rover (forward/backward/turning left and right), see the feed from the camera, and execute preset scenarios (one of them was the following: moving forward for a determined period, deploying the arm, turning on the laser, retracting the arm, and going back to its initial position).
 
 The jury composed of our computer science teachers and CNES stakeholders was impressed by our work and awarded us the highest grade of the 2010 promotion.
 

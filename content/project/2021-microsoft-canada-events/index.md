@@ -42,4 +42,4 @@ Using the latest Microsoft standards in design while ensuring the experience was
 
 - Project size: 7 people
 - Project length: 6 months
-- Mindmap / Planner / Excel / PowerPoint
+- Mind map / Planner / Excel / PowerPoint

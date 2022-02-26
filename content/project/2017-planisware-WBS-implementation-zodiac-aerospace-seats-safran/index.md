@@ -35,7 +35,7 @@ slides:
 
 In the summer of 2017, I started to work for the seats division of Zodiac Aerospace via the management consulting company ASI.
 
-The company was in the early stage of deploying a new project management software ([Planisware](https://www.planisware.com/enterprise/planisware-enterprise)) and they wanted to create a project schedule template that was up to date, modular, and robust enough so they could use it for every seats program (from the simple eco seats to the first class and more high-end seats).
+The company was in the early stage of deploying a new project management software ([Planisware](https://www.planisware.com/enterprise/planisware-enterprise)) and they wanted to create a project schedule template that was up to date, modular, and robust enough so they could use it for every seats program (from the simple Eco seats to the first class and more high-end seats).
 
 Based on their PERT (Program Evaluation Review Technique) diagrams, I created the WBS on Microsoft Project to have a base to work on. I then flew to California and Texas to lead workshops to review and update the PERT diagrams and the associated WBS (Work Breakdown Structure) to have the most up-to-date structure. The program planning requirements and production plans validation were also updated in the process.
 

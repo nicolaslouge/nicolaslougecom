@@ -43,4 +43,4 @@ During my first week working on Dealer Lingo, I identified a massive flaw in the
 **Dealer Lingo:**
 - Project size: 9 people / $400k (CAD)
 - Project length: 10 months
-- Miro / Project / Excel / PowerPoint / Jira
+- Miro / Project / Excel / PowerPoint / Jira / Slack

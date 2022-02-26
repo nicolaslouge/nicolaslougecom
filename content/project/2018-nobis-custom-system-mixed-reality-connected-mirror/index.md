@@ -48,4 +48,4 @@ We created the mirror and the tablet application, the logic of all the jacket da
 - Project size: 7 people
 - Project length: 8 months
 - Shopify integration
-- Miro / Project / Excel / Jira
+- Miro / Project / Excel / Jira / Slack
