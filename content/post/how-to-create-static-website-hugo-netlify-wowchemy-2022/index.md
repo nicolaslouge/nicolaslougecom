@@ -51,13 +51,13 @@ categories:
 4. [Set up your development environment](#setup)   
 5. [Deploy the Academic theme](#deploy)   
 6. [Make it yours](#makeityours)     
-   1. [How-to remove the green - demo - section](#howtoremovedemo)   
-   2. [How-to hide any section](#howtohidesection)   
-   3. [How-to edit the top navigation bar](#howtonav)   
-   4. [How-to update the favicon (site icon)](#howtofavicon)   
-   5. [How-to update the avatar](#howtoavatar)   
-   6. [How-to update the name, position, social icons, and biography](#howtonamepositionsocialbio)   
-   7. [How-to customize a section](#howtocustomize)   
+   1. [How to remove the green - demo - section](#howtoremovedemo)   
+   2. [How to hide any section](#howtohidesection)   
+   3. [How to edit the top navigation bar](#howtonav)   
+   4. [How to update the favicon (site icon)](#howtofavicon)   
+   5. [How to update the avatar](#howtoavatar)   
+   6. [How to update the name, position, social icons, and biography](#howtonamepositionsocialbio)   
+   7. [How to customize a section](#howtocustomize)   
 7. [Update](#update)
 8. [Resources](#resources) 
 
@@ -257,11 +257,11 @@ Next, you can read and follow the steps on the [Hugo Site Customization](https:/
 
 ### <a id="howto"></a>How-to
 
-#### <a id="howtoremovedemo"></a>How-to remove the green - demo - section
+#### <a id="howtoremovedemo"></a>How to remove the green - demo - section
 
 Go to the ```content/home/``` folder and delete the ```demo.md``` file.
 
-#### <a id="howtohidesection"></a>How-to hide any section
+#### <a id="howtohidesection"></a>How to hide any section
 
 If you want to remove a specific section (like the Skills or Experience one), you can add the following code at the top of the ```skills.md``` or ```experience.md``` file in the ```content/home/```
 
@@ -270,25 +270,25 @@ If you want to remove a specific section (like the Skills or Experience one), yo
 active: false
 ```
 
-#### <a id="howtonav"></a>How-to edit the top navigation bar
+#### <a id="howtonav"></a>How to edit the top navigation bar
 
 ```Academic``` is the site title and can be changed in the ```config/_default/config.yaml``` file.   
 ```Home```, ```Posts```, are the different menu options and can be changed in the ```config/_default/menu.yaml``` file.   
 The search and the theme picker can be enabled/disabled in the ```config/_default/params.yaml``` file.   
 
-#### <a id="howtofavicon"></a>How-to update the favicon (site icon)
+#### <a id="howtofavicon"></a>How to update the favicon (site icon)
 
 Add your new .png icon in the ```assets/media``` folder and rename it ```icon.png```. You can remove the old one.
 
-#### <a id="howtoavatar"></a>How-to update the avatar
+#### <a id="howtoavatar"></a>How to update the avatar
 
 Add your new avatar in the ```content/authors/admin``` folder and rename it ```avatar.jpg``` (if your image is a JPG). It should be a square image with the same height/width to get the best result. You can remove the old one.
 
-#### <a id="howtonamepositionsocialbio"></a>How-to update the name, position, social icons, and biography
+#### <a id="howtonamepositionsocialbio"></a>How to update the name, position, social icons, and biography
 
 You can edit all of those in the ```_index.md``` file in the ```content/authors/admin``` folder.
 
-#### <a id="howtocustomize"></a>How-to customize a section
+#### <a id="howtocustomize"></a>How to customize a section
 
 If you want to customize a section, like the biography one and add your ```Certifications``` next to your ```Education```, then you'll have to edit the HTML template Hugo is using when generating your site.
 
