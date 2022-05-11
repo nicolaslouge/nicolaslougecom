@@ -91,7 +91,7 @@ In 2016, Matt Biilmann and Chris Bach (the co-founders of [Netlify](https://www.
 
 Originally, `JAM` stood for JavaScript, API & Markup and `stack` for all the technologies used.
 
-![Illustration of the Jamstack (from Jamstack.wtf)](http://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/jamstack.png "The Jamstack (Jamstack.wtf)")
+![Illustration of the Jamstack (from Jamstack.wtf)](https://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/jamstack.png "The Jamstack (Jamstack.wtf)")
 
 In 2020, "JAMstack" became "Jamstack" and the name is now used to broadly refer to an architectural approach for building websites that are decoupled (where the front end is built from a static site generator while the back end is often integrated with the front), static first, and progressively enhanced.
 
@@ -107,7 +107,7 @@ If you want to read more about Jamstack and its history, go to [Jamstack.wtf](ht
 
 For starters, you need to choose the static site generator tool you'll use to create and build your website. There are more than 300 generators to choose from and new ones are seeing the light almost every day. You can see the full list on the [Jamstack](https://jamstack.org/generators/) website. The top 3 are: Next.js, Hugo, and Gatsby.
 
-![Screenshot of Jamstack.org](http://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/ssg-jamstack.jpg "List of Static Site Generators (Jamstack.org)")
+![Screenshot of Jamstack.org](https://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/ssg-jamstack.jpg "List of Static Site Generators (Jamstack.org)")
 
 For this guide, we'll use Hugo with the Academic-resume theme from [Wowchemy](https://wowchemy.com/).
 
@@ -198,7 +198,7 @@ To create an account go to [Netlify](https://www.netlify.com/) and click on sign
 
 Now that you're all set up, we'll deploy the Academic theme template on our Github/Netlify environment. On the [Wowchemy](https://wowchemy.com) website, click on ```Get Started``` on then on [Start with Academic Resume](https://app.netlify.com/start/deploy?repository=https://github.com/wowchemy/starter-hugo-academic&stack=cms).
 
-![Screenshot of the "Get Started" page on Wowchemy.com](http://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/wowchemy-start.jpg "Screenshot of the "Get Started" page on Wowchemy.com")
+![Screenshot of the "Get Started" page on Wowchemy.com](https://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/wowchemy-start.jpg "Screenshot of the "Get Started" page on Wowchemy.com")
 
 A Netlify page will open up asking you to connect to Github and then to give a name to the new repository that Github will create for you. Mine is named "nicolaslougecom" but you can name it anything you'd like. For this demo, I'll use ```hugo-academic-demo```. You can then click on ```Save & Deploy```. 
 
@@ -206,7 +206,7 @@ Behind the scenes, Github will clone the ```starter-hugo-academic repository``` 
 
 On your Netlify account, you can see you have a new site. Click on it, and you'll see the URL Netlify generated for your project under ```Site overview```.
 
-![Site overview on Netlify](http://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/netlify-siteoverview.jpg "Site overview on Netlify")
+![Site overview on Netlify](https://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/netlify-siteoverview.jpg "Site overview on Netlify")
 
 ## <a id="makeityours"></a>Make it yours
 
@@ -237,7 +237,7 @@ Hugo will generate the static files (HTML, CSS) of your websites (which you can 
 
 If you get an error similar to ```hugo server Error: from config: failed to resolve output format "headers" from site config```, go to the ```%TMP%\hugo_cache\``` folder on Windows and delete the ```modules```  folder. Then, launch the ```hugo server``` command again ([see the thread on the Hugo forum](https://discourse.gohugo.io/t/site-works-on-netlify-but-not-locally-error-from-config/34614)).
 
-![Screenshot of a PowerShell running the hugo server command](http://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/hugo-server.png "Screenshot of a PowerShell running the hugo server command")
+![Screenshot of a PowerShell running the hugo server command](https://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/hugo-server.png "Screenshot of a PowerShell running the hugo server command")
 
 Alright, this is where it gets more complicated. The Academic theme source code (which is now your website) is divided between multiple folders.
 
