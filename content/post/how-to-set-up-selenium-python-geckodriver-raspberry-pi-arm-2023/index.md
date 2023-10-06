@@ -169,7 +169,7 @@ What it means:
 
 What I did:
 
-- I completely wiped my Raspberry Pi 4 and installed **[Ubuntu Desktop 22.04.3 LTS](https://ubuntu.com/download/raspberry-pi)** for the simple reason that I only found James’s repo after the fact. It turned out great but since I have the 2GB version of the Pi4, I don’t get the best experience as Ubuntu consumes almost 1.5 GB of RAM just to show the desktop. Moving forward, I’ll install Ubuntu Server 22.04.3 LTS ****or the **[Raspberry Pi OS 64-bit](https://www.raspberrypi.com/software/operating-systems/)** that was released earlier this year.
+- I completely wiped my Raspberry Pi 4 and installed **[Ubuntu Desktop 22.04.3 LTS](https://ubuntu.com/download/raspberry-pi)** for the simple reason that I only found James’s repo after the fact. It turned out great but since I have the 2GB version of the Pi4, I don’t get the best experience as Ubuntu consumes almost 1.5 GB of RAM just to show the desktop. Moving forward, I’ll install Ubuntu Server 22.04.3 LTS or the **[Raspberry Pi OS 64-bit](https://www.raspberrypi.com/software/operating-systems/)** that was released earlier this year.
 
 Whether you have a 64-bit/32-bit OS, don’t use python libraries like **[webdriver-manager](https://pypi.org/project/webdriver-manager/)** because they [don’t recognize and download binaries for an ARM architecture](https://github.com/SergeyPirogov/webdriver_manager/issues/200).
 
@@ -213,7 +213,7 @@ If you get an `OSError: [Errno 8] Exec format error` or some variants of it (see
 - `OSError: [Errno 8] Exec format error: '/home/nicolas/.local/lib/python3.10/site-packages/selenium/webdriver/common/linux/selenium-manager’`
 - `bash: /usr/local/bin/geckodriver: cannot execute binary file: Exec format error`
 
-If you did install the correct version of the driver but get an **`Unable to Locate Driver`** error, it’s because you need to use a [service class](https://www.selenium.dev/documentation/webdriver/drivers/service/) and specify the path of the driver because the ARM architecture is not well supported by Selenium (Github issues [11599](https://github.com/SeleniumHQ/selenium/issues/11599#issuecomment-1702617867)/[11356](https://github.com/SeleniumHQ/selenium/issues/11356#issuecomment-1666412800)).
+If you did install the correct version of the driver but get an **`Unable to Locate Driver`** error, it’s because you need to use a [service class](https://www.selenium.dev/documentation/webdriver/drivers/service/) and specify the path of the driver as the ARM architecture is not well supported by Selenium (Github issues [11599](https://github.com/SeleniumHQ/selenium/issues/11599#issuecomment-1702617867)/[11356](https://github.com/SeleniumHQ/selenium/issues/11356#issuecomment-1666412800)). Another solution is to download the Rust Dev environement and to create a variable with your driver path location (see [Github issue 12651](https://github.com/SeleniumHQ/selenium/issues/12651#issuecomment-1734785707))
 
 On WSL (running x86_64), I just needed the following to do the same thing and Selenium was able to find the executable path by itself.
 
