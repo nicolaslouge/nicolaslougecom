@@ -49,7 +49,7 @@ In 2011, a Googler played a video that I uploaded on YouTube (a track from Tron 
 
 Today, the website is still online and it might make a come back someday.
 
-- Daily visits: 5,000 (as its peak)
+- Daily visits: 5,000
 - Facebook: 10,000 fans
 - YouTube: more than 5 million views
 - Wordpress / OVH / MySpace / YouTube / Twitter / Google+ / Facebook

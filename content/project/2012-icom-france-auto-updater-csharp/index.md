@@ -32,7 +32,7 @@ slides:
 
 **Location:** Toulouse, France
 
-In July 2012, I interned at [ICOM](https://www.icomjapan.com/) - a Japanese manufacturer of radio transmitting and receiving equipment - during the first year of my computer science Master’s degree.
+In July 2012, I got an internship at [ICOM](https://www.icomjapan.com/) - a Japanese manufacturer of radio transmitting and receiving equipment - during the first year of my computer science Master’s degree.
 
 Icom product line includes “equipment for radio amateurs, pilots, maritime applications, land mobile professional applications and radio scanner enthusiasts”.
 

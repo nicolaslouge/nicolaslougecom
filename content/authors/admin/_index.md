@@ -10,8 +10,8 @@ role: Senior Project Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wunderman Thompson
-  url: https://www.wundermanthompson.com
+- name:
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -47,10 +47,10 @@ certification:
 social:
 - icon: envelope-open-text
   icon_pack: fas
-  link: mailto:nicolas.louge@gmail.com
+  link: mailto:nicolas.louge@outlook.com
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nicolaslouge/en
+  link: https://www.linkedin.com/in/nicolaslouge
 - icon: github
   icon_pack: fab
   link: https://github.com/nicolaslouge
@@ -72,6 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-Hi, I'm Nicolas! I'm a senior project manager working at Microsoft Canada as a vendor through Wunderman Thompson. I lead all the digital projects that are used to support and amplify local campaigns and events across Canada.
+Hi, I'm Nicolas! I'm a senior project manager in Toronto with over 9 years of experience working on various projects across the automotive, aerospace, and tech sectors, delivering solutions that combine cutting-edge technology, design, and user experience. I'm passionate about innovation and technology.
 
-In France, I worked on the 1:1 scale replica of the Mars Curiosity Rover (the one that landed on Mars on March 2012), autonomous driving at Renault/Nissan, the deployment of a project management software at Zodiac Aerospace (now Safran), and launched a popular electronic music blog called Stop The Noise.
+I started my career in France where I was involved in some of the most ambitious and groundbreaking projects in the industry. I worked on the 1:1 scale replica of the Mars Curiosity Rover for the French Space Agency, which was displayed at the Paris Air Show and attracted worldwide attention. At Renault/Nissan, I worked on the new versions of the best-selling vehicles of the company (Clio, Captur) where I contributed to the development and testing of self-driving cars. Between Paris, California, and Texas, I deployed a project management software at Zodiac Aerospace (now Safran), which improved the efficiency and quality of the aerospace manufacturing process. In 2009, I launched a popular electronic music blog called Stop The Noise, which featured interviews, reviews, and playlists of the latest trends in the genre.
+
+I then moved to Canada, where I worked as a vendor at Microsoft, leading all the digital projects that were used to support and amplify local campaigns and events across the country. I also worked at two digital agencies, one where I launched two digital products: a mobile app to help dealerships manage their inventory, and a web platform that allowed them to create and share personalized copy for specific make/model/features. At Versett, I worked on a wholesale pricing management application for the liquor distribution branch of the British Columbia government.

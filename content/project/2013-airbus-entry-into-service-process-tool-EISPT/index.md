@@ -33,9 +33,10 @@ slides:
 
 **Location:** Toulouse, France
 
-In March 2013, I interned at Altran as a project manager working on the INIS bundle for [Airbus](https://www.airbus.com/en).
+In March 2013, I started my internship at Altran as a project manager working on the INIS bundle for [Airbus](https://www.airbus.com/en).
 
-The bundle consisted of multiple projects and one of them was a tool called EISPT for Entry Into Service Process Tool. EISPT was an internal tool supporting the hardware and software needs of every Airbus’s IT projects. If a project required to have a specific number of servers with specific requirements and software, they would create a request in EISPT so another team could take care of that request.
+The program consisted of multiple projects and one of them was a tool called EISPT for Entry Into Service Process Tool. EISPT was an internal tool supporting the hardware and software needs of every Airbus’s IT projects. If a project required to have a specific number of servers with specific requirements and software, they would create a request in EISPT so another team could take care of that request.
 
-As a project manager, I worked with the development team (SQLI) and managed the upcoming sprints and releases. I set up KPIs and tools to monitor daily every ticket created with the support team to be able to quickly identify trends and manage risks. The tool was set to be released broadly to the entire company around the end of my internship so to prepare for that, I designed the Service Desk Guide and processes that were needed to create the Level 1 support and was in charge of the early support until the LV1 was operational.
-Research paper: Study on the management of change during the transition of services.
+As a project manager, I worked with the development team (SQLI) and managed the upcoming sprints and releases. I set up KPIs and tools to monitor daily every ticket created with the support team to be able to quickly identify trends and manage risks. The tool was set to be released broadly to the entire company around the end of my internship so to prepare for that, I designed the Service Desk Guide and processes that were needed to create the Level 1 support and was in charge of the early support until it was operational.
+
+Research paper: Study on the change management during the transition of services.

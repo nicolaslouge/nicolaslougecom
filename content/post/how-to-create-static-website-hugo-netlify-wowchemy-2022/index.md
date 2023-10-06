@@ -198,7 +198,7 @@ To create an account go to [Netlify](https://www.netlify.com/) and click on sign
 
 Now that you're all set up, we'll deploy the Academic theme template on our Github/Netlify environment. On the [Wowchemy](https://wowchemy.com) website, click on ```Get Started``` on then on [Start with Academic Resume](https://app.netlify.com/start/deploy?repository=https://github.com/wowchemy/starter-hugo-academic&stack=cms).
 
-![Screenshot of the "Get Started" page on Wowchemy.com](https://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/wowchemy-start.jpg "Screenshot of the "Get Started" page on Wowchemy.com")
+![Screenshot of the "Get Started" page on the Wowchemy.com site](https://nicolaslouge.com/post/how-to-create-static-website-hugo-netlify-wowchemy-2022/wowchemy-start.jpg "Screenshot of the "Get Started" page on Wowchemy.com")
 
 A Netlify page will open up asking you to connect to Github and then to give a name to the new repository that Github will create for you. Mine is named "nicolaslougecom" but you can name it anything you'd like. For this demo, I'll use ```hugo-academic-demo```. You can then click on ```Save & Deploy```. 
 
