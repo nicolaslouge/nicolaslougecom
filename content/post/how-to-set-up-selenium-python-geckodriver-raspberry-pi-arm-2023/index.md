@@ -202,7 +202,7 @@ geckodriver -V
 ```python
 from selenium import webdriver
 
-service = webdriver.ChromeService(executable_path='/usr/local/bin/geckodriver')
+service = webdriver.FirefoxService(executable_path='/usr/local/bin/geckodriver')
 driver = webdriver.Firefox(service=service)
 
 driver.get("https://duck.com/")
@@ -222,7 +222,7 @@ On WSL (running x86_64), I just needed the following to do the same thing and Se
 ```
 from selenium import webdriver
 
-driver = webdriver.Chrome()
+driver = webdriver.Firefox()
 driver.get("https://duck.com/")
 ```
 
